@@ -1,24 +1,24 @@
-## Student Info for DEX475 (251020)
+## Student Info for DEX475 (251103)
 
-Touch point for students of Sept Mulesoft API Design
+Touch point for students of Nov Mulesoft API Design
 
-DEX475 - Anypoint Development: API Design Classroom Reference - 251020 - PDT
+DEX475 - Anypoint Development: API Design Classroom Reference - 251103 - CDT
 
 Vincent Lowe
 vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:     NGL3YA						
+Attendance Code:     	SEQZXV
 
-Salesforce Mimeo:     https://salesforce.mimeo.digital/MuleSoft
+Salesforce Mimeo:     	https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:     US95R60QT9H2
+eBook Redemption Key:  	US18HCJ6922X
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:	         TASM-039144					
+Survey ID:	        TASM-039427 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -63,14 +63,6 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
-|Smooth Criminal|Luca Stricagnoli||
-|Walking Stick|Leon Redbone||
-|Sixteen Tons|Geoff Castellucci||
-|Here We Go Again|Ray Charles and Norah Jones||
-|Good Morning America|Arlo Guthrie||
-|Stairway to Heaven|Luca Stricagnoli||
-|Tupelo Honey|Reina del Cid|now performing as Elle and Toni|
-|The Hitter|Mark Erelli||
 
 
 
