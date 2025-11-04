@@ -68,6 +68,9 @@ Classroom Playlist
 |Sixteen Tons|Geoff Castellucci|All voices on this track are Geoff|
 |Lazybones|Leon Redbone||
 |Good Day for a Good Day|Michael Franti and Spearhead||
+|Street Beater|Quincy Jones|TV theme from Sanford and Son|
+|Smooth Criminal|Luca Stricagnloli||
+
 
 
 
