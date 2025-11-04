@@ -72,6 +72,7 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnloli||
 |It Ain't Over Yet|Rodney Crowell|feat. Roseanne Cash|
 |Hotel California|Moyun Oficial||
+|Crazy He Calls Me|Billie Holiday||
 
 
 
