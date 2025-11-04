@@ -67,6 +67,7 @@ Classroom Playlist
 |It Ain't Over Yet|Rodney Crowell||
 |Sixteen Tons|Geoff Castellucci|All voices on this track are Geoff|
 |Lazybones|Leon Redbone||
+|Good Day for a Good Day|Michael Franti and Spearhead||
 
 
 
